@@ -1,4 +1,6 @@
 # Hinge Agent 🤖
+# Scrolls -> Analyzes Photos and Pictures -> Swipes Right or Left
+# Run it from your terminal as a script with iPhone Mirroring pulled up. 
 Note: This is configured for my iphone (Iphone pro max 13) and thus you may run into issues with different frame iphones. It should not be too much of a hassle to change this. The only hardcoded parts of the code is the button clicking (heart) or swipe right. Everything else is Apple vision algos. There's probably a way to have the heart icon identified but not yet implemented. Most of this readme is Claude code generated. Apologies in advance.
 
 ## TLDR
