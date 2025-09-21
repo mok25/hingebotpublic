@@ -6,7 +6,7 @@ you need iphone screen mirroring, Grok API key (if you want the API key), saves 
 
 Once a profile is saved, you can retroactively run API calls (if you want to test various prompts instead of waiting for the scrolling to occur). 
 
-There's two modes: one that actually utilizes AI and another 'dumb' mode that will just scroll down to the bottom of a profile and always swipe right. Use it if you don't want to spend money on API requests?
+### There's two modes: one that actually utilizes AI and another 'dumb' mode that will just scroll down to the bottom of a profile and always swipe right. Use it if you don't want to spend money on API requests?
 
 An AI-powered automated Hinge dating app bot that uses cutting-edge vision APIs to analyze profiles and make intelligent swiping decisions. Features dual AI provider support with OpenAI GPT-4o Vision and xAI's Grok Vision API.
 
