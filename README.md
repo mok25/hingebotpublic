@@ -52,7 +52,7 @@ export OPENAI_API_KEY="sk-your-openai-api-key-here"
 echo 'export OPENAI_API_KEY="sk-your-openai-api-key-here"' >> ~/.zshrc
 ```
 
-**Option B: xAI Grok (Goat)**
+**Option B: xAI Grok (Will NOT randomly refuse requests, unlike OpenAI)**
 ```bash
 # Get API key from https://x.ai/api
 export XAI_API_KEY="xai-your-api-key-here"
