@@ -1,0 +1,15 @@
+.env
+HingeBot.dmg
+HingeBotApp.app/
+HingeBotApp.entitlements
+HingeBotApp/
+HingeBotCLI/
+HingeBotCore/
+build_app.sh
+config.json
+test_screenshot_methods.swift
+test_window_detection.swift
+build/  # If you also want to ignore build directories
+*.xcuserstate  # Common Xcode file to ignore
+.claude
+.vscode 
