@@ -43,7 +43,7 @@ sw_vers
 
 ### Step 3: API Keys Setup
 
-**Option A: OpenAI (Don't Use, Too PC)**
+**Option A: OpenAI (Don't Use, Too Many Guardrails)**
 ```bash
 # Get API key from https://platform.openai.com/
 export OPENAI_API_KEY="sk-your-openai-api-key-here"
