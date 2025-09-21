@@ -8,9 +8,8 @@ Once a profile is saved, you can retroactively run API calls (if you want to tes
 
 ### There's two modes: one that actually utilizes AI and another 'dumb' mode that will just scroll down to the bottom of a profile and always swipe right. Use it if you don't want to spend money on API requests?
 
-An AI-powered automated Hinge dating app bot that uses cutting-edge vision APIs to analyze profiles and make intelligent swiping decisions. Features dual AI provider support with OpenAI GPT-4o Vision and xAI's Grok Vision API.
 
-Requirements
+## Requirements
 1. **macOS Sequoia** or later (required for iPhone Mirroring and Vision Framework)
 2. **iPhone** with iOS 15+ connected and paired with your Mac
 3. **AI API Access**: Choose one or both:
