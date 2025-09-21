@@ -81,13 +81,13 @@ swiftc -o hinge_agent_v2 hinge_agent.swift
 
 ## 🎯 Usage
 
-### Basic Operation (USE THE GROK COMMAND)
+### Basic Operation
 ```bash
 # AI-powered swiping with OpenAI (default)
 ./hinge_agent_v2
 # AI-powered swiping with Grok Vision
 
-./hinge_agent_v2 --grok
+./hinge_agent_v2
 
 # Manual decisions with AI analysis (recommended for testing)
 ./hinge_agent_v2 --dumb
@@ -227,6 +227,8 @@ python3 grok_vision_processor.py --test-session existing_session_id
 - **API Security**: Only sends base64 encoded photos to AI providers
 - **Session Isolation**: Each profile analysis stored in separate timestamped folders
 - **Secure Storage**: API keys use system environment variables
+
+I left the OpenAI file in it if you want to see how it responds (make sure aesthetic mode is on). 
 ## 📝 License
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
